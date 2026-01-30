@@ -1,5 +1,6 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,label,autor,tecnica,titulo_obra_original,autor_original,temporalidad_obra_original
+1_diosa,Diosa de oro,Mariana Villegas,Dibujo digital,La Diosa de oro,Henry Price,1852
+2_lagrima,Cascada de lágrimas,Antonia Zapata,Dibujo digital,Cascada de las Monjas en el río Vinagre ,José María Gutiérrez de Alba,1875
+3_pixel,Interpretación de la ciudad de Cali junto al Nevado del Huila en pixel art,Luis Carlos Maldonado,Pixel art,Ciudad de Cali y del Nevado del Huila ,Manuel María Paz,1853
+4_organicos,Orgánicos,Juan Manuel Zapata,Montaje digital,Medellín,Henry Price,1852
+5_analoga,Al ritmo del corazón,Károl Palma,Acuarela,"La marimba, instrumento popular ",Manuel María Paz,1853

@@ -1,0 +1,42 @@
+{
+  "id": "https://ConiBotero.github.io/maraton/iiif/5_analoga/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Al ritmo del corazón"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://ConiBotero.github.io/maraton/iiif/5_analoga/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://ConiBotero.github.io/maraton/iiif/5_analoga/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://ConiBotero.github.io/maraton/iiif/5_analoga/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://ConiBotero.github.io/maraton/iiif/5_analoga/manifest/canvas-0.json",
+              "body": {
+                "id": "https://ConiBotero.github.io/maraton/iiif/5_analoga/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3060,
+                "width": 4080
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 4080,
+      "height": 3060,
+      "annotations": []
+    }
+  ]
+}

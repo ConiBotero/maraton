@@ -1,21 +1,18 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "base": "https://ConiBotero.github.io",
+  "baseurl": "/maraton",
+  "title": "Maratón HDI",
+  "subtitle": "trabajos de clase",
+  "credits": "por los estudiantes HDI",
+  "copyright": "Todos los derechos reservados 2026",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
@@ -24,15 +21,32 @@ const config = {
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "tecnica",
+        "label": "Tecnica",
+        "type": "text"
+      },
+      {
+        "key": "titulo_obra_original",
+        "label": "Titulo_obra_original",
+        "type": "text"
+      },
+      {
+        "key": "autor_original",
+        "label": "Autor_original",
+        "type": "text"
+      },
+      {
+        "key": "temporalidad_obra_original",
+        "label": "Temporalidad_obra_original",
         "type": "text"
       }
     ],
     "metadataToIndex": [
       "label",
-      "autor",
-      "fecha"
+      "tecnica",
+      "titulo_obra_original",
+      "autor_original",
+      "temporalidad_obra_original"
     ]
   }
 };

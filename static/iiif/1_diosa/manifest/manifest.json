@@ -1,0 +1,11 @@
+{
+  "id": "https://ConiBotero.github.io/maraton/iiif/1_diosa/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Diosa de oro"
+    ]
+  },
+  "items": []
+}

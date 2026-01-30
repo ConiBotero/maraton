@@ -1,0 +1,21 @@
+{
+  "id": "https://ConiBotero.github.io/maraton/iiif/4_organicos/manifest/page-0.json",
+  "items": [
+    {
+      "id": "https://ConiBotero.github.io/maraton/iiif/4_organicos/manifest/image-0.json",
+      "items": [],
+      "type": "Annotation",
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "motivation": "painting",
+      "target": "https://ConiBotero.github.io/maraton/iiif/4_organicos/manifest/canvas-0.json",
+      "body": {
+        "id": "https://ConiBotero.github.io/maraton/iiif/4_organicos/0/full/max/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 2523,
+        "width": 3244
+      }
+    }
+  ],
+  "type": "AnnotationPage"
+}
